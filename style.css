@@ -1,0 +1,155 @@
+@charset "UTF-8";
+body {
+  background: black;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-column-gap: 14.13px;
+       column-gap: 14.13px;
+  margin-bottom: 27px;
+}
+.header_name {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+}
+
+.main {
+  display: flex;
+  -moz-column-gap: 33px;
+       column-gap: 33px;
+  width: 99%;
+  height: 100%;
+  background: gold;
+  margin: 0 auto;
+}
+.main_card1 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card2 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card3 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card4 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card5 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card6 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card7 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card8 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card9 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card10 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card11 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card12 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card13 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card14 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card15 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card16 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card17 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card18 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card19 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+.main_card20 {
+  width: 282px;
+  height: 381px;
+  background: url(/img/Без\ названия\ 3.png);
+}
+
+.footer-films {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 204px;
+  width: 100%;
+  background: black;
+  padding-top: 36px;
+  row-gap: 14px;
+}
+.footer-films_title {
+  width: 342px;
+  height: 110px;
+  color: white;
+}
+.footer-films_logo {
+  display: flex;
+  align-items: center;
+}
+.footer-films_logo_name {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

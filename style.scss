@@ -1,0 +1,150 @@
+body{
+    background: black;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 14.13px;
+    margin-bottom: 27px;
+    &_name{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        color: white;
+    }
+}
+.main{
+    display: flex;
+    column-gap: 33px;
+    width: 99%;
+    height: 100%;
+    background: gold;
+    margin: 0 auto;
+    &_card1{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card2{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card3{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card4{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card5{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card6{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card7{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card8{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card9{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card10{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card11{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card12{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card13{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card14{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card15{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card16{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card17{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card18{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card19{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    &_card20{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 3.png);
+    }
+    
+}
+.footer-films{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 204px;
+    width: 100%;
+    background: black;
+    padding-top: 36px;
+    row-gap: 14px;
+    &_title{
+        width: 342px;
+        height: 110px;
+        color: white;
+    }
+    &_logo{
+        display: flex;
+        align-items: center;
+        &_name{
+            font-family: 'Raleway', sans-serif;
+            font-weight: 400;
+            font-size: 15px;
+            color: white;
+        }
+    }
+}
