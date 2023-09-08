@@ -16,11 +16,13 @@ body{
 }
 .main{
     display: flex;
-    column-gap: 33px;
+    gap: 109px 33px;
+    justify-content: center;
     width: 99%;
     height: 100%;
-    background: gold;
     margin: 0 auto;
+    flex-wrap: wrap;
+
     &_card1{
         width: 282px;
         height: 381px;
@@ -29,97 +31,122 @@ body{
     &_card2{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 2.png);
     }
     &_card3{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 10.png);
     }
     &_card4{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 6.png);
     }
     &_card5{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 5.png);
     }
     &_card6{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 7.png);
     }
     &_card7{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 8.png);
     }
     &_card8{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 9.png);
     }
     &_card9{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 4.png);
     }
     &_card10{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 11.png);
     }
     &_card11{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 12.png);
     }
     &_card12{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 13.png);
     }
     &_card13{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 14.png);
     }
     &_card14{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 15.png);
     }
     &_card15{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 16.png);
     }
     &_card16{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 17.png);
     }
     &_card17{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 18.png);
     }
     &_card18{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 19.png);
     }
     &_card19{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 20.png);
     }
     &_card20{
         width: 282px;
         height: 381px;
-        background: url(/img/Без\ названия\ 3.png);
+        background: url(/img/Без\ названия\ 21.png);
+    }
+    &_card21{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 22.png);
+    }
+    &_card22{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 23.png);
+    }
+    &_card23{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 24.png);
+    }
+    &_card24{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 25.png);
+    }
+    &_card25{
+        width: 282px;
+        height: 381px;
+        background: url(/img/Без\ названия\ 26.png);
     }
     
 }
